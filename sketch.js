@@ -1,6 +1,6 @@
 let balls = [];
 let gravity;
-let ballNo = 30;
+let ballNo = 75;
 function setup() {
   createCanvas(windowWidth, windowHeight);
   colorMode(HSB);
